@@ -49,6 +49,12 @@ Open [http://localhost:3000/](http://localhost:3000/) to see your Dapp. You will
 need to have [Metamask](https://metamask.io) installed and listening to
 `localhost 8545`.
 
+## Tasks
+- Faucet
+```bash
+npx hardhat --network localhost faucet 0xec2b4de6c854fbee4f5a4b9bb94b31c1aab9aa79
+```
+
 ## User Guide
 
 You can find detailed instructions on using this repository and many tips in [its documentation](https://hardhat.org/tutorial).
